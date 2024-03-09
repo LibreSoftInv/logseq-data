@@ -1,2 +1,2 @@
-- [[Regar las plantas]]. No todo va a ser la informática.
+- [[Regar las plantas]]. No todo va a ser informática.
 -
