@@ -1,0 +1,6 @@
+- Los estados de mis tareas:
+	- [[T: Entrada]]: Por colocar, para cuando las apunto sin gastar tiempo en pensar dónde colocarla.
+	- [[T: Próximas]]: Las que debo realizar cuanto antes.
+	- [[T: En espera]]: Tareas que se encuentran bloqueadas.
+	- [[T: Algún día]]: Tareas que no tienen un tiempo asignado.
+	- [[T: Realizadas]]: Tareas recurrentes que, por el momento, han quedado realizadas.

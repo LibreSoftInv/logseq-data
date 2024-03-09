@@ -1,0 +1,4 @@
+- El curso online está disponible en [UAMx](https://uamx.uam.es/courses/course-v1:UAMx+LibreSoftInv+23-24/about)
+- Hemos aprendido sobre [Stallman](https://es.wikipedia.org/wiki/Richard_Stallman) y la [Free Software Foundation](https://es.wikipedia.org/wiki/Free_Software_Foundation).
+-
+-

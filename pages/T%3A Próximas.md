@@ -1,0 +1,2 @@
+- Probar LogSeq
+- Hacer el trabajo del curso de Software Libre

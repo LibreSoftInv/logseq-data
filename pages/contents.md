@@ -1,0 +1,3 @@
+- [[Tareas]]
+- [[Ideas de artículo]]
+- [[Notas de seminarios y cursos]]

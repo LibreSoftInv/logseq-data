@@ -1,0 +1,1 @@
+- Instalar Linux: Esperando a que Linux Torvalds me enseñe
